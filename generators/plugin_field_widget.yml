@@ -1,0 +1,9 @@
+commands:
+    -
+        command: 'generate:plugin:fieldwidget'
+        options:
+            module: module_2
+            class: widget
+            label: widget
+            plugin-id: widget
+            field-type: list_float

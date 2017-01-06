@@ -1,0 +1,14 @@
+commands:
+    -
+        command: 'generate:plugin:block'
+        options:
+            module: module_3
+            class: block
+            label: block
+            plugin-id: block
+            theme-region: block
+            services:
+                - cache_context.ip
+            inputs:
+                - { type: date, label: date, description: date, default_value: date, weight: '0', name: date, maxlength: null, size: null }
+                - { type: color, label: 'color ', description: papa, default_value: '0', weight: '0', name: color, maxlength: null, size: null }

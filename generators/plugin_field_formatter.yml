@@ -1,0 +1,9 @@
+commands:
+    -
+        command: 'generate:plugin:fieldformatter'
+        options:
+            module: module_4
+            class: formatter
+            label: formatter
+            plugin-id: formatter
+            field-type: timestamp

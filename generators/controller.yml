@@ -1,0 +1,12 @@
+commands:
+    -
+        command: 'generate:controller'
+        options:
+            module: module_4
+            class: ca
+            services:
+                - cache_context.request_format
+                - cache_context.session
+            routes:
+                - { title: casa, name: sa, method: s, path: s }
+                - { title: s, name: s, method: s, path: s }

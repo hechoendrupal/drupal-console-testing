@@ -1,0 +1,11 @@
+commands:
+    -
+        command: 'generate:plugin:fieldtype'
+        options:
+            module: module_5
+            class: type
+            label: type
+            plugin-id: type
+            description: type
+            default-widget: type
+            default-formatter: type

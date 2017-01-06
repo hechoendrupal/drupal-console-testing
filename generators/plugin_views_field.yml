@@ -1,0 +1,8 @@
+commands:
+    -
+        command: 'generate:plugin:views:field'
+        options:
+            module: module_5
+            class: fiel
+            title: field
+            description: field

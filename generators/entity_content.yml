@@ -1,0 +1,11 @@
+commands:
+    -
+        command: 'generate:entity:content'
+        options:
+            module: module_2
+            entity-class: entitycontent
+            entity-name: entitycontent
+            base-path: entitycontent
+            label: content
+            is-translatable: 'yes'
+            revisionable: content

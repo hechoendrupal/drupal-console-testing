@@ -1,0 +1,6 @@
+commands:
+    -
+        command: 'generate:help'
+        options:
+            module: module_1
+            description: qqqq

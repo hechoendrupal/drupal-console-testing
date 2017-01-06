@@ -1,0 +1,7 @@
+commands:
+    -
+        command: 'generate:entity:bundle'
+        options:
+            module: module_2
+            bundle-name: bundle
+            bundle-title: bundle

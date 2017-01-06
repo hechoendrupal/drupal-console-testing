@@ -1,0 +1,8 @@
+commands:
+    -
+        command: 'generate:permissions'
+        options:
+            module: module_2
+            permissions:
+                - { permission: example, title: example, description: example, restrict_access: 'true' }
+                - { permission: 'example 2', title: 'example 2', description: 'example 2', restrict_access: 'false' }

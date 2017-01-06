@@ -1,0 +1,8 @@
+commands:
+    -
+        command: 'generate:breakpoint'
+        options:
+            theme: 'false'
+            breakpoints:
+                - { breakpoint_name: casa, breakpoint_label: ca, breakpoint_media_query: ca, breakpoint_weight: ca, breakpoint_multipliers: ca }
+                - { breakpoint_name: ca, breakpoint_label: ca, breakpoint_media_query: ca, breakpoint_weight: ca, breakpoint_multipliers: ca }

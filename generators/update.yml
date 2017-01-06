@@ -1,0 +1,6 @@
+commands:
+    -
+        command: 'generate:update'
+        options:
+            module: module_4
+            update-n: '8001'

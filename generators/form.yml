@@ -1,0 +1,12 @@
+commands:
+    -
+        command: 'generate:form'
+        options:
+            module: module_4
+            class: ca
+            form-id: ca
+            services:
+                - cache_context.headers
+            path: ca
+            inputs:
+                - { type: button, label: a, description: a, default_value: a, weight: a, name: a, maxlength: null, size: null, options: null }

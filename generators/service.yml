@@ -1,0 +1,10 @@
+commands:
+    -
+        command: 'generate:service'
+        options:
+            module: module_5
+            name: s
+            class: s
+            services:
+                - cache_context.session.exists
+            path_service: s

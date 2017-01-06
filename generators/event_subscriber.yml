@@ -1,0 +1,17 @@
+commands:
+    -
+        command: 'generate:event:subscriber'
+        options:
+            module: module_1
+            name: example
+            class: example
+            events:
+                routing.route_finished: finished
+                routing.route_dynamic: dynamic
+                kernel.request: request
+                config.importer.validate: validate
+            services:
+                - service_container
+                - cache_context.ip
+                - cache_context.headers
+                - cache_context.cookies

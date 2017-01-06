@@ -1,0 +1,11 @@
+commands:
+    -
+        command: 'generate:plugin:rulesaction'
+        options:
+            module: module_3
+            class: 'acttio '
+            label: action
+            plugin-id: action
+            type: user
+            category: action
+            context: actin

@@ -1,0 +1,5 @@
+commands:
+    -
+        command: 'generate:module:file'
+        options:
+            module: module_2

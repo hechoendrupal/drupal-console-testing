@@ -1,0 +1,6 @@
+commands:
+    -
+        command: 'generate:post:update'
+        options:
+            module: module_4
+            post-update-name: ud

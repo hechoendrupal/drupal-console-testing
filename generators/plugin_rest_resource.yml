@@ -1,0 +1,12 @@
+commands:
+    -
+        command: 'generate:plugin:rest:resource'
+        options:
+            module: module_3
+            class: cas
+            name: casa
+            plugin-id: casa
+            plugin-label: casa
+            plugin-url: www.f.com
+            plugin-states:
+                - GET

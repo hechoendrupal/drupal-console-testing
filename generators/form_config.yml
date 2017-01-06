@@ -1,0 +1,15 @@
+commands:
+    -
+        command: 'generate:form:config'
+        options:
+            module: module_1
+            class: config2
+            form-id: config2
+            services:
+                - kernel
+                - service_container
+            path: config2
+            menu_link_gen: 'yes'
+            menu_link_title: menus
+            menu_parent: mnu
+            menu_link_desc: menus

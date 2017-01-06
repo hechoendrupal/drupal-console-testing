@@ -1,0 +1,9 @@
+commands:
+    -
+        command: 'generate:plugin:skeleton'
+        options:
+            module: module_3
+            plugin-id: views.sort
+            class: a
+            services:
+                - cache_context.session

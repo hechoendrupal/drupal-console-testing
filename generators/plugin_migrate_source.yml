@@ -1,0 +1,13 @@
+commands:
+    -
+        command: 'generate:plugin:migrate:source'
+        options:
+            module: module_1
+            class: example
+            plugin-id: example
+            table: example
+            alias: example
+            group-by: example
+            fields:
+                - { id: example, description: example }
+                - { id: 'example 1', description: 'example 1' }

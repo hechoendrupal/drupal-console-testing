@@ -1,0 +1,10 @@
+commands:
+    -
+        command: 'generate:plugin:ckeditorbutton'
+        options:
+            module: module_2
+            class: ca
+            label: ca
+            plugin-id: ca
+            button-name: ca
+            button-icon-path: ca

@@ -1,0 +1,9 @@
+commands:
+    -
+        command: 'generate:plugin:imageeffect'
+        options:
+            module: module_3
+            class: efeect
+            label: efect
+            plugin-id: efect
+            description: efect

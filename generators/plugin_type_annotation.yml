@@ -1,0 +1,7 @@
+commands:
+    -
+        command: 'generate:plugin:type:annotation'
+        options:
+            module: module_2
+            class: prueba
+            label: prueba

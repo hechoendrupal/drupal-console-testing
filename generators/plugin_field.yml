@@ -1,0 +1,18 @@
+commands:
+    -
+        command: 'generate:plugin:field'
+        options:
+            module: module_4
+            type-class: field
+            type-label: fiedl
+            type-plugin-id: fiedl
+            type-description: dield
+            formatter-class: field
+            formatter-label: fiedl
+            formatter-plugin-id: field
+            widget-class: field
+            widget-label: field
+            widget-plugin-id: field
+            field-type: float
+            default-widget: field
+            default-formatter: field

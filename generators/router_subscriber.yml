@@ -1,0 +1,7 @@
+commands:
+    -
+        command: 'generate:routesubscriber'
+        options:
+            module: module_3
+            name: route
+            class: route

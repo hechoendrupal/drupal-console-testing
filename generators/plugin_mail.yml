@@ -1,0 +1,8 @@
+commands:
+    -
+        command: 'generate:plugin:mail'
+        options:
+            module: module_1
+            class: mail
+            label: mail
+            plugin-id: mail

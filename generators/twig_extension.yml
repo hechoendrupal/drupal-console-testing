@@ -1,0 +1,9 @@
+commands:
+    -
+        command: 'generate:twig:extension'
+        options:
+            module: module_5
+            name: twig
+            class: ds
+            services:
+                - cache_context.session.exists

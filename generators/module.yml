@@ -1,0 +1,12 @@
+commands:
+    -
+        command: 'generate:module'
+        options:
+            module: 'module 1'
+            description: 'module 1'
+            core: 8.x
+            package: 'module 1'
+            dependencies: user
+            twigtemplate: 'module 1'
+            machine-name: module_1
+            module-path: /sites/08cbda51-3ef0-45df-86ba-3a19564a4327/modules

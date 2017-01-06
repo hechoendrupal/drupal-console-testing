@@ -1,0 +1,10 @@
+commands:
+    -
+        command: 'generate:command'
+        options:
+            module: module_2
+            class: 'module 2'
+            name: 'module 2'
+            container-aware: 'module 2'
+            services:
+                - cache_context.session.exists

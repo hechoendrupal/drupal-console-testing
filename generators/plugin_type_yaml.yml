@@ -1,0 +1,8 @@
+commands:
+    -
+        command: 'generate:plugin:type:yaml'
+        options:
+            module: module_4
+            class: yaml
+            plugin-name: yaml
+            plugin-file-name: ysml

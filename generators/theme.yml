@@ -1,0 +1,18 @@
+commands:
+    -
+        command: 'generate:theme'
+        options:
+            theme: Nuevoos
+            description: neuvo
+            core: 8.x
+            package: nuevo
+            global-library: nuevo
+            base-theme: classy
+            machine-name: nuevoos
+            theme-path: /sites/08cbda51-3ef0-45df-86ba-3a19564a4327/themes
+            breakpoints:
+                - { breakpoint_name: a, breakpoint_label: a, breakpoint_media_query: a, breakpoint_weight: a, breakpoint_multipliers: a }
+                - { breakpoint_name: q, breakpoint_label: q, breakpoint_media_query: q, breakpoint_weight: q, breakpoint_multipliers: q }
+            regions:
+                - { region_name: PaPa, region_machine_name: papa }
+                - { region_name: 'papa 1', region_machine_name: papa_1 }

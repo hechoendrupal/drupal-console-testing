@@ -1,0 +1,10 @@
+commands:
+    -
+        command: 'generate:profile'
+        options:
+            profile: 'Prueb 1'
+            description: ssq
+            core: 8.x
+            dependencies: user
+            distribution: qaaaa
+            machine-name: prueb_1

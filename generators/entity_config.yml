@@ -1,0 +1,10 @@
+commands:
+    -
+        command: 'generate:entity:config'
+        options:
+            module: module_1
+            entity-class: entity
+            entity-name: config
+            base-path: config
+            label: condig
+            bundle-of: condif

@@ -1,0 +1,11 @@
+commands:
+    -
+        command: 'generate:plugin:condition'
+        options:
+            module: module_2
+            class: aaaaa
+            label: a
+            plugin-id: a
+            context-definition-id: language
+            context-definition-label: a
+            context-definition-required: 'yes'
